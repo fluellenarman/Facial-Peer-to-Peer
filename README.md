@@ -35,7 +35,7 @@
 * [![React][React.js]][React-url]
 * [![Simple Peer](https://img.shields.io/badge/Simple_Peer-2ea44f?style=for-the-badge)](https://github.com/feross/simple-peer)
 * [![Face Api](https://img.shields.io/badge/Face_Api-orange?style=for-the-badge)](https://github.com/justadudewhohacks/face-api.js/)
-* [![Node.js]][Node-url] [![Express]][Express-url]
+* [![Node.js]][Node-url] [![Express]][Express-url]=
 * ![MySQL]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -56,6 +56,7 @@ To get a local copy up and running follow these simple example steps.
    ```sh
    npm install
    ```
+### Run locally
 3. In your root directory, run the backend server
    ```sh
    nodemon index.js
