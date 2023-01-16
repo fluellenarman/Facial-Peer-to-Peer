@@ -1,7 +1,13 @@
 const axios = require('axios');
 
+// const api = axios.create({
+// 	baseURL: 'http://localhost:5000',
+// 	timeout: 1000,
+// })
+// Use the above for testing locally
+// Use the below for production
 const api = axios.create({
-	baseURL: 'http://localhost:5000',
+	baseURL: 'https://facial-peer.herokuapp.com/',
 	timeout: 1000,
 })
 
