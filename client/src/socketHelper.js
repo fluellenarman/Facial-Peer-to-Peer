@@ -5,7 +5,10 @@ import Peer from 'simple-peer';
 
 const SocketHelper = createContext();
 
-const socket = io("http://localhost:5000");
+// const socket = io("http://localhost:5000");
+// Use the above for testing locally
+// Use the below for production
+const socket = io("https://facial-peer.herokuapp.com/");
 
 const ContextProvider2 = ({ children }) => {
     
