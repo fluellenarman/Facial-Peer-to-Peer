@@ -1,4 +1,5 @@
 
+
 [![LinkedIn][linkedin-shield]][linkedin-url]
 ![netlify]
 [![openIssues]][openIssuesURL]
@@ -25,8 +26,6 @@
 
 ![Product Name Screen Shot](./Facial-Peer-Example.png)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -36,8 +35,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 * [![React][React.js]][React-url]
 * [![Simple Peer](https://img.shields.io/badge/Simple_Peer-2ea44f?style=for-the-badge)](https://github.com/feross/simple-peer)
 * [![Face Api](https://img.shields.io/badge/Face_Api-orange?style=for-the-badge)](https://github.com/justadudewhohacks/face-api.js/)
-* [![Node.js]][Node-url]
-* [![Express]][Express-url]
+* [![Node.js]][Node-url] [![Express]][Express-url]
 * ![MySQL]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -134,5 +132,5 @@ fluellenarman@gmail.com
 [React-url]: https://reactjs.org/
 [Node.js]: https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
 [Node-url]: https://nodejs.org/en/
-[Express]: https://img.shields.io/badge/Express.js`enter code here`-404D59?style=for-the-badge
+[Express]: https://img.shields.io/badge/Express.js-404D59?style=for-the-badge
 [Express-url]: https://expressjs.com/
